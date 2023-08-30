@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Karl Ho",
     "section": "",
-    "text": "Assignment 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nKarl Ho\n\n\n\n\n\n\n\n\nExploratory Data Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nJohn Doe\n\n\n\n\n\n\n\n\nKnowledge Mining project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nKarl Ho\n\n\n\n\n\n\nNo matching items"
+    "text": "Assignment 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nKarl Ho\n\n\n\n\n\n\n\n\nAssignment 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nKarl Ho\n\n\n\n\n\n\n\n\nAssignment 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nKarl Ho\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "assign01.html",
@@ -58,9 +58,9 @@
   {
     "objectID": "posts/assign03/index.html",
     "href": "posts/assign03/index.html",
-    "title": "Exploratory Data Analysis",
+    "title": "Assignment 3",
     "section": "",
-    "text": "Lab03\nMy work"
+    "text": "Data visualization assignment 3\n\npar(family=\"Palatino\")\nplot(iris, cex = .5, pch=16, , col=\"firebrick\")"
   },
   {
     "objectID": "assign03.html",
