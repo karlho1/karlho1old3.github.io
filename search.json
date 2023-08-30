@@ -2,9 +2,9 @@
   {
     "objectID": "posts/assign01/index.html",
     "href": "posts/assign01/index.html",
-    "title": "Knowledge Mining project",
+    "title": "Assignment 1",
     "section": "",
-    "text": "Our project will focus on modeling elections in Taiwan.\nData collection method:\nElection data will be accessed through the Taiwan Central Election Committee API."
+    "text": "Data Visualization Assignment 1\nUse R for creating charts\n\n# Use built in datasets\ndata()\nplot(mtcars)"
   },
   {
     "objectID": "posts/post-with-code/index.html",
